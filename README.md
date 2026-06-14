@@ -27,4 +27,4 @@ python stock_portfolio.py
 Python 3
 JSON for data storage
 👩‍💻 Author
-Zara Husainjavascript
+Zara Husain
