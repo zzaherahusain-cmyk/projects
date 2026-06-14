@@ -24,3 +24,6 @@ python hangman.py
 
 # Stock portfolio check karne ke liye  
 python stock_portfolio.py
+🛠️ Tech Used
+Python 3JSON for data storage👩‍💻 Author
+Zara Husainjavascript
