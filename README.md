@@ -11,7 +11,7 @@ Ye repository CodeAlpha ki Python Programming Internship ke tasks ke liye hai.
    - Stocks add karo, current price daalo
    - Total investment aur Profit/Loss calculate karta hai
    - Data `portfolio.json` file mein save hota hai
- 3. Task 3: **Task Automation **- automation.py
+3. Task 3: **Task Automation** - `automation.py`
    - Emails extract karta hai text file se
    - JPG images ko naye folder mein move karta hai  
    - Website ka title scrape karta hai
