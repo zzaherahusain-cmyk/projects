@@ -4,11 +4,11 @@ Ye repository CodeAlpha ki Python Programming Internship ke tasks ke liye hai.
 
 ## 📋 Tasks Completed
 
-1. **Task 1: Hangman Game** - `hangman.py`
+**1. **Task 1: Hangman Game** ****- `hangman.py`
    - Classic word guessing game
    - User ko 6 chances milte hain word guess karne ke liye
 
-2. **Task 2: Stock Portfolio Tracker** - `stock_portfolio.py` 
+2.** **Task 2: Stock Portfolio Tracker** **- `stock_portfolio.py` 
    - Stocks add karo, current price daalo
    - Total investment aur Profit/Loss calculate karta hai
    - Data `portfolio.json` file mein save hota hai
