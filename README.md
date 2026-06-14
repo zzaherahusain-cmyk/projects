@@ -1,4 +1,5 @@
 # CodeAlpha Python Internship Projects 
+''' markdown
 ## 📋 Tasks Completed
 
 1. **Task 1: Hangman Game** - `hangman.py`
@@ -21,3 +22,7 @@ python hangman.py
 
 # Stock portfolio check karne ke liye  
 python stock_portfolio.py
+'''
+Tech used
+pyhton 3
+JSON for data storage
