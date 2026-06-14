@@ -1,5 +1,7 @@
-# CodeAlpha Python Internship Projects 
-''' markdown
+# CodeAlpha Python Internship Projects 🚀
+
+Ye repository CodeAlpha ki Python Programming Internship ke tasks ke liye hai.
+
 ## 📋 Tasks Completed
 
 1. **Task 1: Hangman Game** - `hangman.py`
@@ -22,7 +24,3 @@ python hangman.py
 
 # Stock portfolio check karne ke liye  
 python stock_portfolio.py
-'''
-Tech used
-pyhton 3
-JSON for data storage
