@@ -30,6 +30,7 @@ while lives > 0 and '_' in guessed:
         print("Hangman:", "O" if lives<=5 else "",
               "/|\\" if lives<=3 else "",
               "/ \\" if lives<=1 else "")
+        
 
     print("Word:", ' '.join(guessed))
 
