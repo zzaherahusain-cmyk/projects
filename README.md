@@ -34,4 +34,4 @@ python automation.py
 - JSON for data storage
 
 ## 👤 Author
-Zara Husain
+Zahera Husain
