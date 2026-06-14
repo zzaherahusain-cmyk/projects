@@ -29,8 +29,9 @@ python stock_portfolio.py
 # Task Automation chalane ke liye
 python automation.py
 ```
-🛠️ Tech Used
-Python 3
-JSON for data storage
-👩‍💻 Author
+## 🛠️ Tech Used
+- Python 3
+- JSON for data storage
+
+## 👤 Author
 Zara Husain
